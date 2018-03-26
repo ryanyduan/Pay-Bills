@@ -28,7 +28,7 @@ def main():
 # Username and Passwords in a dictionary
 #==================================================================
 
-	passwords = {"CIBC": ["4506445228667620", "s069339851"]}
+	passwords = {"CIBC": ["USERNAME", "PASSWORD"]}
 
 #==================================================================
 # Log into CIBC
